@@ -47,4 +47,6 @@ Proponiendo interfaces y metodologias de navegacion que permita percibir la solu
 ### La guía de usabilidad disponible en el sitio web de Gobierno Digital (MinTIC, s.f.)21
 
 ## Apertura
+Proporcionando el acceso a los datos que se generen (si hay a lugar) y necesiten ser consultados a traves de un API abierto.
 ## Uso de tecnologías emergentes
+se busca poder implementar alguna de las tecnologias emergentes que este alineada a alguno de los requerimientos del cliente como IoT, blockchain, inteligencia artificial, entre otras.
