@@ -33,3 +33,18 @@ apoyar el logro de las metas y objetivos de la entidad.
 Consiste en lograr una injerencia más efectiva en la gestión del Estado y en asuntos de interés público
 por parte de ciudadanos, usuarios y grupos de interés, para impulsar la gobernanza en la
 gestión pública, a través del uso y aprovechamiento de las tecnologías digitales
+
+# Implementacion de la política
+La ejecucion exitosa de la politica esta enmarcada dentro de unos requerimientos no funcionales 
+## Interoperabilidad
+Haciendo que la comunicacion entre sistemas sea eficiente e integra
+## Seguridad y Privacidad de la Información
+asegurando que se cumpla la normativa referente a proteccion de datos personales e implementando protocoles de tranferencia segura de datos 
+## Usabilidad
+Proponiendo interfaces y metodologias de navegacion que permita percibir la solucion mas usable, para esto nos apoyaremos con:
+### Norma Técnica de Accesibilidad 5854 disponible en el sitio web delICONTEC (INCONTEC, s.f.)19
+### La Guía interactiva de implementación de la NTC 5854 (MinTIC, s.f.)20
+### La guía de usabilidad disponible en el sitio web de Gobierno Digital (MinTIC, s.f.)21
+
+## Apertura
+## Uso de tecnologías emergentes
