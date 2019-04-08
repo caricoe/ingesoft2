@@ -39,7 +39,7 @@ La ejecucion exitosa de la politica esta enmarcada dentro de unos requerimientos
 ## Interoperabilidad
 Haciendo que la comunicacion entre sistemas sea eficiente e integra
 ## Seguridad y Privacidad de la Información
-asegurando que se cumpla la normativa referente a proteccion de datos personales e implementando protocoles de tranferencia segura de datos 
+asegurando que se cumpla la normativa referente a proteccion de datos personales e implementando protocoles de tranferencia segura de datos.
 ## Usabilidad
 Proponiendo interfaces y metodologias de navegacion que permita percibir la solucion mas usable, para esto nos apoyaremos con:
 ### Norma Técnica de Accesibilidad 5854 disponible en el sitio web delICONTEC (INCONTEC, s.f.)19
