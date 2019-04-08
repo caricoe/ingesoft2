@@ -42,11 +42,11 @@ Haciendo que la comunicacion entre sistemas sea eficiente e integra
 asegurando que se cumpla la normativa referente a proteccion de datos personales e implementando protocoles de tranferencia segura de datos.
 ## Usabilidad
 Proponiendo interfaces y metodologias de navegacion que permita percibir la solucion mas usable, para esto nos apoyaremos con:
-### Norma Técnica de Accesibilidad 5854 disponible en el sitio web delICONTEC (INCONTEC, s.f.)19
-### La Guía interactiva de implementación de la NTC 5854 (MinTIC, s.f.)20
-### La guía de usabilidad disponible en el sitio web de Gobierno Digital (MinTIC, s.f.)21
+* Norma Técnica de Accesibilidad 5854 disponible en el sitio web delICONTEC (INCONTEC, s.f.)19
+* La Guía interactiva de implementación de la NTC 5854 (MinTIC, s.f.)20
+* La guía de usabilidad disponible en el sitio web de Gobierno Digital (MinTIC, s.f.)21
 
 ## Apertura
 Proporcionando el acceso a los datos que se generen (si hay a lugar) y necesiten ser consultados a traves de un API abierto.
 ## Uso de tecnologías emergentes
-se busca poder implementar alguna de las tecnologias emergentes que este alineada a alguno de los requerimientos del cliente como IoT, blockchain, inteligencia artificial, entre otras.
+Se busca poder implementar alguna de las tecnologias emergentes que este alineada a alguno de los requerimientos del cliente como IoT, blockchain, inteligencia artificial, entre otras.
