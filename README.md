@@ -1,6 +1,6 @@
 # Proyecto
 
-Automatizar el proceso para hacer movilidad academica(Intercambio)
+Automatizar el proceso para realizar movilidad academica saliente(Intercambio)
 
 # ¿Cómo el proyecto se alinea con la política del gobierno digital?
 
