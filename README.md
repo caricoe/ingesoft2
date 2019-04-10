@@ -1,8 +1,16 @@
 # Proyecto
 
-Automatizar el proceso para realizar movilidad academica saliente(Intercambio)
+Automatizar el proceso para realizar movilidad academica saliente(Intercambio), para
+que esta pueda ser realizada facilmente por cualquier estudiante en lo posible que este realizado
+totalmente de manera virtual
+
+Tambien se buscara facilitar la labor de las personas encargadas de la recepcion de las solicitudes
+como puede ser con la comprobacion automatica del cumplimiento de ciertos requisitos para aplicar a 
+las convocatorias.
 
 # ¿Cómo el proyecto se alinea con la política del gobierno digital?
+
+
 
 Por el momento el principal enfoque de nuestro proyecto de ingenieria de software II es buscar 
 facilitar la comunicacion de los ciudadanos con el estado con esto se buscara intentar cumplir
