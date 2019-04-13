@@ -2,25 +2,25 @@
 
 # Grupo Lista
 
-Camilo Andres Rico Echeverry    		Product Owner
+Camilo Andres Rico Echeverry-------------Product Owner
 
-Katherine Viviana Sierra Briñez			Scrum Master
+Katherine Viviana Sierra Briñez----------Scrum Master
 
-Ronald Sarmiento				Architecture Owner
+Ronald Sarmiento-------------------------Architecture Owner
 
-Andres Fernando Roman Arevalo		Team Member
+Andres Fernando Roman Arevalo------------Team Member
 
-Juan Sebastian Narvaez Beltran		Team Member
+Juan Sebastian Narvaez Beltran-----------Team Member
 
-Julian David Diaz Cifuentes			Team Member
+Julian David Diaz Cifuentes--------------Team Member
 
-Camilo Alfonso Mosquera Benavides		Team Member
+Camilo Alfonso Mosquera Benavides--------Team Member
 
-Gustavo Galvez Bello				Team Member
+Gustavo Galvez Bello---------------------Team Member
 
-Nicolas Felipe Gavilán Sabogal			Team Member
+Nicolas Felipe Gavilán Sabogal-----------Team Member
 
-Jose Daniel Suarez Jurado			Team Member
+Jose Daniel Suarez Jurado----------------Team Member
 
 # Empresa
 
