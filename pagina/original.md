@@ -1,6 +1,6 @@
 ---
 layout: page
-title: original
+title: Arquitectura
 ---
 
 El tipo de arquitectura a utilizar es la de cliente-servidor
