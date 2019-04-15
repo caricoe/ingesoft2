@@ -18,4 +18,4 @@ Mediante el uso de software buscamos agilizar el proceso anteriormente mencionad
 
 **Proceso**
 
-![Drag Racing](public/Procesos Movilidad.png)
+<img src="public/Procesos Movilidad.png">
