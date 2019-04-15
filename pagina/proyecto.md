@@ -15,3 +15,7 @@ Automatizar el proceso antes de realizar movilidad académica saliente en la mod
 **Estrategia**
 
 Mediante el uso de software buscamos agilizar el proceso anteriormente mencionado, utilizando metodologías ágiles para el desarrollo de software y herramientas que nos ayuden y faciliten el proceso. Se espera contar con fases de especificación de requisitos, análisis, diseño, implementación y pruebas
+
+**Proceso**
+
+<img src=""{{site.baseurl}}/public/Procesos Movilidad.png">
