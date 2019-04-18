@@ -1,30 +1,49 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
+<link rel="stylesheet" href="{{ site.baseurl }}/css/propio.css">
+
+
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
 <!-- Toggleable sidebar -->
+
+ 
+
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
     <img src="{{ site.baseurl }}/public/logo.jpg">
   </div>
 
   <nav class="sidebar-nav" >
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/">Home </a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/pagina/miembros">Miembros </a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/pagina/proyecto">Proyecto</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/pagina/alineacion">Alineacion con Politica</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" >Empresa</a>
-    <ul>
-      <a href="{{site.baseurl}}/pagina/universidad" class="sidebar-nav-subitem">Universidad</a>
-      <a href="{{site.baseurl}}/pagina/dre" class="sidebar-nav-subitem">DRE</a>
-    </ul>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/pagina/preguntas">Preguntas</a>
+     
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/">Home </a>
+    <button class=" sidebar-nav-item{% if page.url == node.url %} active{% endif %} dropdown-btn">Entrega 1
+      </button>
+      <div class="dropdown-container">
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/pagina/miembros">Miembros </a>
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/pagina/proyecto">Proyecto</a>
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/pagina/alineacion">Alineacion con Politica</a>
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" >Empresa</a>
+          <ul>
+            <a href="{{site.baseurl}}/pagina/universidad" class="sidebar-nav-subitem">Universidad</a>
+            <a href="{{site.baseurl}}/pagina/dre" class="sidebar-nav-subitem">DRE</a>
+          </ul>
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/pagina/preguntas">Preguntas</a>
+        
+      </div>
+      <button class=" sidebar-nav-item{% if page.url == node.url %} active{% endif %} dropdown-btn">Entrega 2
+        </button>
+        <div class="dropdown-container">
+
      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/pagina/original">Arquitectura</a>
      <ul>
       <a href="{{site.baseurl}}/pagina/Arquitectura" class="sidebar-nav-subitem">Tecnologias</a>
     </ul>
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/pagina/metodologia">Metodologia</a>
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/pagina/herramientas">Herramientas</a>
+ </div>
+   
   </nav>
 
 </div>
+<script type="text/javascript" src="{{site.baseurl}}/js/propio.js"></script>
