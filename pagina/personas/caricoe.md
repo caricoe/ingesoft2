@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Miembros
+title: Camilo Andres Rico Echeverry
 ---

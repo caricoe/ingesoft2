@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Miembros
+title: Katherine Viviana Sierra Briñez
 ---
