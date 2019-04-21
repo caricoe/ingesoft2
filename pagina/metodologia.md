@@ -8,7 +8,7 @@ de la metodologia SCRUM
 
 Nuestro Sprint de una semana tendría los siguiente eventos o ceremonias:
 
-1 El Sprint Planning al comienzo del Sprint
+1. El Sprint Planning al comienzo del Sprint
 Daily Scrums a diario.
 
 2. Un Sprint Review al final del Sprint para inspeccionar el incremento realizado.
@@ -26,3 +26,22 @@ Vamos a tratar los siguientes aspectos:
 3. Utilizar este cálculo de velocidad durante el Planning de los demás  Sprint.
 
 4. Conseguir el compromiso del equipo con el trabajo planificado para el segundo Sprint
+
+
+Horarios de las ceromonias 
+
+1. Sprint Planing and Grooming: Domingo en la mañana
+
+2. Sprint Review: Lunes en la noche
+
+3. Sprint Retrospective: Lunes en la noche
+
+4. Daily Scrum: Cada 3 días de lunes a viernes 
+
+Acuerdos
+
+1. Se espera máximo 5 minutos antes de iniciar la Daily 
+
+2. Cierre de Sprint: Sábados al medio día 
+
+
