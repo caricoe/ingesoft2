@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DRE
+title: Historias de Usuario
 ---
 
 Esto es un ejemplo
