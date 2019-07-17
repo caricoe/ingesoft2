@@ -2,5 +2,6 @@
 layout: page
 title: Gustavo Galvez Bello
 ---
-
-Uso de la herramienta Trello.	Uso de Github.	Programación en ReactJs.
+1. Uso de la herramienta Trello.
+2. Uso de Github.
+3. Programación en ReactJs.
